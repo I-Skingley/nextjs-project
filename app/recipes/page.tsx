@@ -22,10 +22,10 @@ async function Recipes() {
   let meals = await prisma.meals.findMany();
   let cards = meals;
   return (
-    <section className="sm:mx-[10%] top-[1.5rem] mt-[0.2rem] relative sm:top-48 sm:mt-8 ">
+    <section className="top-[1.5rem] mt-[0.2rem] relative sm:top-48 sm:mt-8">
       
       <Searchbar />
-      <div className="relative top-24 sm:top-0 container w-[auto] grid sm:grid-cols-2 grid-cols-1 gap-4 mt-32 sm:mt-8 place-content-center">
+      <div className="relative top-24 sm:top-0 container grid sm:grid-cols-[repeat(auto-fit,_45%)] sm:m-auto mx-0 justify-center grid-cols-1 gap-4 mt-32 sm:mt-8 place-content-center">
         {cards.map((meal, k) => (
           <div key={k} className="sm:px-3 px-0 col-span-1 flex flex-col">
             <Card
