@@ -1,0 +1,37 @@
+id,meal,protein,kid_friendly,recipe
+0,beef tacos,roast beef,false,False
+1,Mac n Cheese,Sausage,true,False
+2,Chicken and Rice,Chicken,true,False
+3,Apple Burger,Beef,true,False
+4,Chicken Burger,Chicken,true,False
+5,Sloppy Joe,Beef,true,False
+6,Taco,Any,true,False
+7,Nachos,Beef,true,False
+8,Fiskeboller,Fish,true,False
+9,Fish Burger,Fish,true,False
+10,Fish Fingers,Fish,true,False
+11,Medisterkaker,Pork,true,False
+12,Kjøttkaker,Beef,true,False
+13,Pizza Dehli,Chicken,false,False
+14,Pasta Bolognese,Beef,true,False
+15,Pannekaker,Any,true,False
+16,Røsti,Any,false,False
+17,Onion Soup,Cheese,false,False
+18,Tomatsuppe,None,false,False
+19,Red Curry,Chicken,false,False
+20,Rødvins Pasta,"Pork, Mince, Bacon",false,False
+21,Curry,Chicken,false,False
+22,Pork Chops,Pork,true,False
+23,Fried Rice,Any,true,False
+24,Enchiladas,Any,true,False
+25,Mexican Lasagne,Beef,false,False
+26,Grønnsakslasagne,None,false,False
+27,Risotto,Any,false,False
+28,Gnocchi,Any,true,False
+29,Pølsegryte,Sausage,true,False
+30,Ovnsbakt Laks,Fish,false,False
+31,Pølsegrateng med Poteter,Sausage,true,False
+32,Feta Pasta Bake,Cheese,true,False
+33,Moussaka,Minced meat,false,False
+34,Taco Pie,Any,false,False
+35,Chilli Con Carne,Beef,false,False
